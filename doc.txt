@@ -1,0 +1,7 @@
+This is to test the diff mode. 
+Something new was made.
+
+What is the difference between diff and diff --staged?
+
+something new
+wow another one
