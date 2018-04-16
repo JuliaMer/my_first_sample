@@ -5,4 +5,4 @@ This was changed in the login mode.
 
 Wow, this is awesome.
 
-See how git diff is working
+See how git diff is working. Now in the login mode to change.
