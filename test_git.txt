@@ -5,7 +5,4 @@ This was changed in the login mode.
 
 Wow, this is awesome.
 
-See how git diff is working. Now in the login mode to change.
-
-Did some new changes to see diff.
-
+This change was in the login mode. 
