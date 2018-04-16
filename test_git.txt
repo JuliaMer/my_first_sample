@@ -2,3 +2,7 @@ This will be the test file.
 This file was changed.
 
 This was changed in the login mode.
+
+Wow, this is awesome.
+
+See how git diff is working
