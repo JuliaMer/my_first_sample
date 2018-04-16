@@ -1,0 +1,11 @@
+This document was changed in the tast branch.
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+This change was made in the try mode.
+Why does git not recognize the changes. 
+
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
