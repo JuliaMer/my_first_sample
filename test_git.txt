@@ -5,9 +5,4 @@ This was changed in the login mode.
 
 Wow, this is awesome.
 
-<<<<<<< HEAD
-
-
-=======
-
->>>>>>> login
+This change was done in the master mode.
